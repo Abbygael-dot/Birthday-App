@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Birthday App</string>
+    <string name="happy_birthday_jessie">Happy Birthday Jessie</string>
+    <string name="continue_to_grow_strong_in_wisdom_and_grace">Continue to grow strong in wisdom and grace</string>
+    <string name="love_abby">Love Abby</string>
+    <string name="todo">TODO</string>
+    <string name="order_for_your_cake">Order for your cake</string>
+</resources>
